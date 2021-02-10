@@ -1,0 +1,19 @@
+#logoLogin{
+    width: 10em;
+    height: 10em;
+    margin-left: 45%;
+    margin-top: 5rem;
+}
+h2{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+#ukuran{
+    text-align: center;
+}
+#deskripsi{
+    width: 40%;
+    height: 30%;
+}

@@ -1,0 +1,7 @@
+
+# HTID:15327354: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile "/storage/ssd2/951/14759951/public_html/ucfutsaldrive/.htpasswd"
+Require user admin
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:15327354:
